@@ -25,6 +25,6 @@ Welcome to my GitHub profile!
 
 - **[LinkedIn](https://www.linkedin.com/in/merrick-pereira-592440264/)**
 - **[Portfolio](https://merrick-portfolio.vercel.app)**
-- **Email:** merrick.pereira@outlook.com
+- ** merrick.pereira@outlook.com
 
 Thanks for visiting my profile!

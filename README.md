@@ -5,18 +5,18 @@ Welcome to my GitHub profile!
 ## 🚀 Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff00" alt="HTML5" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff00" alt="CSS3" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=ffffff00" alt="JavaScript" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff00" alt="React" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=ffffff00" alt="Tailwind CSS" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=ffffff00" alt="Bootstrap" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=ffffff00" alt="Node.js" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=express&logoColor=000000&labelColor=ffffff00" alt="Express.js" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=ffffff00" alt="MongoDB" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=ffffff00" alt="Vercel" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&labelColor=ffffff00" alt="Photoshop" width="40" style="margin-right: 15px;"/>
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=ffffff00" alt="Canva" width="40" style="margin-right: 15px;"/>
+  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" width="40" style="margin-right: 10px;"/>
 </p>
 
 ---

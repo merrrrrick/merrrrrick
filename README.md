@@ -15,7 +15,6 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="100" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="100" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" width="100" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" width="100" style="margin-right: 10px;"/>
 </p>
 

@@ -1,29 +1,35 @@
 # Hi there, I'm Merrick Pereira! 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile — a space where I build, learn, and share.
+
+---
 
 ## 🚀 Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="100" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" width="100" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/CorelDRAW_Logo.png" alt="CorelDRAW" width="40" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-- **[LinkedIn](https://www.linkedin.com/in/merrick-pereira-592440264/)**
-- **[Portfolio](https://merrick-portfolio.vercel.app/)**
-- merrick.pereira@outlook.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/merrick-pereira-592440264/)
+- 🌐 [Portfolio](https://merrick-portfolio.vercel.app/)
+- 📧 merrick.pereira@outlook.com
 
-Thanks for visiting my profile!
+Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate or just chat tech.
